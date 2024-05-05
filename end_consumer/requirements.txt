@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+confluent-kafka
+python-dotenv
+redis
