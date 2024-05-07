@@ -21,7 +21,7 @@ Features active
 
 ## How to run this locally
 
-1. Add a `.env` file, take sample of .env.example to each service and change accordingly
+1. Add `.env` files for each service and take .env.example for reference and change accordingly
 
 2. Run Docker Compose to start local the kafka and redis servers and 3 different services
 ```docker-compose up```
